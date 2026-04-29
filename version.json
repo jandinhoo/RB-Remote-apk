@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 8,
+  "versionName": "1.7",
   "apkUrl": "https://raw.githubusercontent.com/jandinhoo/RB-Remote-apk/main/RB%20Remote.apk",
-  "notes": "Adicionado botão PLAYLIST e  EQ.\naba lateral de músicas: puxando da esquerda para direita aparece a lista de músicas da playlist.\naba lateral de playlists: puxando da direita para esquerda aparece a lista de abas/playlists.\nAo clicar em uma música da lista, ela começa a tocar.\nEQ agora permite cadastrar presets e trocar preset pelo app."
+  "notes": "Final Release"
 }
