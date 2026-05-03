@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
+  "versionCode": 10,
+  "versionName": "1.9",
   "apkUrl": "https://raw.githubusercontent.com/jandinhoo/RB-Remote-apk/main/RB%20Remote.apk",
-  "notes": "Final Release"
+  "notes": "Final Release, Configurações salvam e carregam"
 }
